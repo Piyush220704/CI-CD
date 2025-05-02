@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        My react app implementation with CI/CD
+        My react app implementation with CI/CD hello
       </div>
     </>
   )
