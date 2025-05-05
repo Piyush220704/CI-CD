@@ -9,6 +9,7 @@ function App() {
       <div>
         My react app implementation with CI/CD hello
       </div>
+      <p>this is to check if cicd is running or not hello</p>
     </>
   )
 }
